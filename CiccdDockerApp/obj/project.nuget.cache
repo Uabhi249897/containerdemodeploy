@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A5F+7P/Ec2QxunxgSLFV7YAVtAW1mzjfkyL4e5yeLxMG4IVAdpqqVNMc/6uUjhkTiHCTdxHsw7HXyu/n7MbBkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ukspaupadhyay\\source\\repos\\CiccdDockerApp\\CiccdDockerApp\\CiccdDockerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ukspaupadhyay\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
